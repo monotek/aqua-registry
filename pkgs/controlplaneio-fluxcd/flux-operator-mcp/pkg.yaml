@@ -1,0 +1,2 @@
+packages:
+  - name: controlplaneio-fluxcd/flux-operator/flux-operator-mcp@v0.45.1
